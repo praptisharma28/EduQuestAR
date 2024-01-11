@@ -2,6 +2,7 @@ import { BrowserRouter } from "react-router-dom";
 
 import { About, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components";
 import Footer from "./components/Footer";
+import VideoCarousel from "./components/VideoCarousel";
 
 const App = () => {
   return (
@@ -13,6 +14,11 @@ const App = () => {
           <StarsCanvas />
         </div>
         <About />
+       
+        <div>
+        
+        <VideoCarousel/>
+        </div>
        
         <Tech />
         <Works />
