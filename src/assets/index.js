@@ -1,5 +1,5 @@
 import logo from "./ar-high-resolution-logo-transparent.png";
-import web from "./VID_20231205_220727.mp4"
+import web from "./video1-heart.mp4"
 import github from "./Ar1.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
